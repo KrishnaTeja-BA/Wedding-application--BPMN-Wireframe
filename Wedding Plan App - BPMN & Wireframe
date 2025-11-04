@@ -1,0 +1,30 @@
+# Wedding Plan-application--BPMN-Wireframe
+## Wedding Plan Mobile Application Design- BPMN Model created in Lucidchart; Wireframe designed using Balsamiq
+
+## Project Overview
+This project illustrates the user flow and wireframe design for a wedding planning mobile application. It allows users to browse the wedding plans, choosing venues, confirm bookings and making payments through a simple and friendly- user interface.
+
+## Concept
+The goal of this design is to create an effective experience for users planning their weddings. It helps to choose them suitable packages and venues- all in one platform
+
+## BPMN Model Overview 
+The BPMN (Business Process model and Notation) flowchart demonstrates the structure of the application journey from opening to completing the event booking process.
+
+## Balsamiq wireframe Overview
+The Balsamiq wireframes (Low fidelity wireframe, detailing the structure and functionality of the design) display the layout of key application screens.
+1.	Login Page
+2.	Homepage
+3.	Dropdown List
+4.	Venue Booking Details
+5.	Payment
+6.	Confirmation
+
+## Screenshots
+      -BPMN Model -Lucid chart.png
+      - Wireframe Design- Balsamiq.png
+
+## Future Improvements
+  As a beginner, I Creator these models to gain more experience in design and application structure.
+  In Future Updates, I plan to enhance the project by:
+  Adding backend logic structure
+  Linking more Screens for dropdown lists, bookings, and payments
